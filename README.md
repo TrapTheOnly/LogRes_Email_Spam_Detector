@@ -25,7 +25,7 @@ This Spam Email Detection System is a machine learning-based application designe
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd spam-email-detection-system
+   cd LogRes_Email_Spam_Detector
    ```
 3. **Run the Setup Script**:
    ```bash

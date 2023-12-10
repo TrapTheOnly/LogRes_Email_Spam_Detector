@@ -1,4 +1,4 @@
-![image with computer and emails](https://github.com/TrapTheOnly/LogRes_Email_Spam_Detector/cover.png "Cover Image")
+![image with computer and emails](https://github.com/TrapTheOnly/LogRes_Email_Spam_Detector/blob/main/cover.png "Cover Image")
 
 # Spam Email Detection System
 

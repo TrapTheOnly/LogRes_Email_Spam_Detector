@@ -3,7 +3,7 @@
 # Spam Email Detection System
 
 ## Project Overview
-This Spam Email Detection System is a machine learning-based application designed to classify emails into 'Spam' and 'Not Spam' categories. It utilizes a Logistic Regression model trained on a comprehensive dataset and incorporates advanced text processing techniques to achieve high accuracy and efficiency. The system is particularly adept at handling various email formats, distinguishing between responses and new messages, and adapting to the nuances of email communication.
+This Spam Email Detection System is a machine learning-based application designed to classify emails into 'Spam' and 'Not Spam' categories. It utilizes a Logistic Regression model trained on a comprehensive dataset obtained from [Kaggle](https://www.kaggle.com/datasets/venky73/spam-mails-dataset), and incorporates advanced text processing techniques to achieve high accuracy and efficiency. The system is particularly adept at handling various email formats, distinguishing between responses and new messages, and adapting to the nuances of email communication.
 
 ## Key Features
 - **Advanced Text Processing**: Implements cleaning, tokenization, and stemming for optimal text analysis.

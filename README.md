@@ -1,3 +1,5 @@
+![image with computer and emails](https://github.com/TrapTheOnly/LogRes_Email_Spam_Detector/cover.png "Cover Image")
+
 # Spam Email Detection System
 
 ## Project Overview
